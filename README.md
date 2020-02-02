@@ -1,6 +1,5 @@
 
-8QueenProblemPHP
-8QueenProblemPHPimprovement
+<h1> 8QueenProblemPHPimprovement </h1>
 
 <div align="center">
 <img src="queen.png" width="800" >
